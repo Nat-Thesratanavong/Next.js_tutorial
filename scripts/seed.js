@@ -6,7 +6,7 @@ const {
   users,
 } = require('../app/lib/placeholder-data.js');
 const bcrypt = require('bcrypt');
-<script src="http://localhost:8097"></script>
+{/* <script src="http://localhost:8097"></script> */}
 
 async function seedUsers(client) {
   try {
